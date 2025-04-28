@@ -1,0 +1,1 @@
+Hier kommt die pc-Datei aus dem jeweiligen pkgconfig-Ordner rein. KEINEN ORDNER ANLEGEN UM DIESE ZU TRENNEN, ALLES KOMMT HIER IN DIESEN EINEN ORDNER

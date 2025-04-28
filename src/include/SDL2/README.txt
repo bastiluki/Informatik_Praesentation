@@ -1,0 +1,1 @@
+Hier kommen alle Header-Dateien rein, die auch unter include\SDL2 herein. KEINEN NEUEN ORDNER ANLEGEN ZUR TRENNUNG

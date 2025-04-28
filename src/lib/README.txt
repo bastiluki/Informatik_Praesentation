@@ -1,0 +1,1 @@
+Hier kommen alle Dateien herein, die mi .a enden aud dem jeweiligen lib-Ordner. KEINEN ORDNER ZUR TRENNUNG ANLEGEN.

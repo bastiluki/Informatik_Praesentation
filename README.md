@@ -7,7 +7,7 @@ Zum kompilieren auf Windows:
     gcc / g++ (Am besten g++)  
     make  
     
-  Am besten installiert man diese Programme mit Msys2 und MingwW.  
+  Am besten installiert man diese Programme mit Msys2 und MingW.  
 
   Sobald alles installiert ist muss man noch die entsprechenden Bibliotheken hinzufügen.
   Dazu lädt man sie bitte herunter (Bei Releases auf die zip für windows-x64 drücken dann entsprechend in die src Ordner reinlegen):
